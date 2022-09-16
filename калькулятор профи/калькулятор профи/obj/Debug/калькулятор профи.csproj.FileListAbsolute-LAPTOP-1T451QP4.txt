@@ -1,0 +1,18 @@
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\калькулятор профи\калькулятор профи\калькулятор профи\bin\Debug\калькулятор профи.exe.config
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\калькулятор профи\калькулятор профи\калькулятор профи\bin\Debug\калькулятор профи.exe
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\калькулятор профи\калькулятор профи\калькулятор профи\bin\Debug\калькулятор профи.pdb
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\калькулятор профи\калькулятор профи\калькулятор профи\obj\Debug\калькулятор профи.csprojAssemblyReference.cache
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\калькулятор профи\калькулятор профи\калькулятор профи\obj\Debug\калькулятор_профи.Form1.resources
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\калькулятор профи\калькулятор профи\калькулятор профи\obj\Debug\калькулятор_профи.Properties.Resources.resources
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\калькулятор профи\калькулятор профи\калькулятор профи\obj\Debug\калькулятор профи.csproj.GenerateResource.cache
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\калькулятор профи\калькулятор профи\калькулятор профи\obj\Debug\калькулятор профи.exe
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\калькулятор профи\калькулятор профи\калькулятор профи\obj\Debug\калькулятор профи.pdb
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\сделано\калькулятор профи\калькулятор профи\калькулятор профи\bin\Debug\калькулятор профи.exe.config
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\сделано\калькулятор профи\калькулятор профи\калькулятор профи\bin\Debug\калькулятор профи.exe
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\сделано\калькулятор профи\калькулятор профи\калькулятор профи\bin\Debug\калькулятор профи.pdb
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\сделано\калькулятор профи\калькулятор профи\калькулятор профи\obj\Debug\калькулятор профи.csprojAssemblyReference.cache
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\сделано\калькулятор профи\калькулятор профи\калькулятор профи\obj\Debug\калькулятор_профи.Form1.resources
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\сделано\калькулятор профи\калькулятор профи\калькулятор профи\obj\Debug\калькулятор_профи.Properties.Resources.resources
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\сделано\калькулятор профи\калькулятор профи\калькулятор профи\obj\Debug\калькулятор профи.csproj.GenerateResource.cache
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\сделано\калькулятор профи\калькулятор профи\калькулятор профи\obj\Debug\калькулятор профи.exe
+C:\Users\vinda\OneDrive\Документы\Visual Studio 2019\проекты\сделано\калькулятор профи\калькулятор профи\калькулятор профи\obj\Debug\калькулятор профи.pdb
